@@ -22,7 +22,7 @@
 <a href="https://twitter.com/hamcraftmc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamcraftmc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmed-yaqoob-dhedhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-yaqoob-dhedhi" height="30" width="40" /></a>
 <a href="https://instagram.com/hammycraft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hammycraft" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hamcraft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hamcraft" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@HamCraft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hamcraft" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
