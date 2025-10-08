@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahmed Yaqoob Dhedhi
 👩🏻‍💻 Software Engineer<br/>
-👩🏻‍💻 Web Devloper (I Love NextJS 😍)<br/>
+🖱️Web Devloper (I Love NextJS 😍)<br/>
 🎨 Creating Gaming Videos on [YouTube](https://www.youtube.com/@HamCraft)<br/>
 💭 Currently learning about Agentic AI<br/>
 
